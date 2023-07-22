@@ -104,6 +104,25 @@ main h1{
     margin-top: 20px;
   }
 
+  .about-edu{
+    text-align: center;
+  }
+  .boder-main{
+    width: 100%;
+    /* background-color: antiquewhite; */
+    display: flex;
+    justify-content: center;
+
+
+  }
+
+  .vline{
+    width: 5px;
+    height: 100px;
+    background-color: rgb(18, 200, 43);
+
+  }
+
 
 
 
